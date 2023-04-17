@@ -1,0 +1,6 @@
+[submodule "Astronia-Voting"]
+	path = Astronia-Voting
+	url = git@github.com:Astronia-Devs/Astronia-Voting.git
+[submodule "Astronia-Legislative-Engine"]
+	path = Astronia-Legislative-Engine
+	url = git@github.com:Astronia-Devs/Astronia-Legislative-Engine.git
